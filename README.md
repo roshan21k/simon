@@ -32,7 +32,7 @@ Welcome to the Simon Game! This project is a digital implementation of the class
 
 5. The game becomes progressively challenging as you successfully complete each round.
 
-Play Now at [Simon Game](https://roshan21k.github.io/simon/)
+Play Now at [Simon 2.0](https://roshan21k.github.io/simon/)
 
 Feel free to enjoy the classic Simon Game experience!
 
